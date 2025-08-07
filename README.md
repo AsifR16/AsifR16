@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 ’m currently exploring advanced areas such as autodiff, neural networks, WASM, browser engines, and digital signal processing for satellite communication. <br>👯 I’m looking to collaborate on Fintech tools and projects.<br>🤝 I’m looking for help with System level programming.<br>🌱 I’m currently learning advanced topics including automatic differentiation in neural networks.<br>⚡ Fun Fact:- I accidentally build a bootloader in x86 assembly while surfing the internet.
+🔭 I’m currently exploring advanced areas such as autodiff, neural networks, WASM, browser engines, and digital signal processing for satellite communication. <br>👯 I’m looking to collaborate on Fintech tools and projects.<br>🤝 I’m looking for help with System level programming.<br>🌱 I’m currently learning advanced topics including automatic differentiation in neural networks.<br>⚡ Fun Fact:- I accidentally build a bootloader in x86 assembly while surfing the internet.
 
 
 ## 🌐 Socials:
